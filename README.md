@@ -35,4 +35,4 @@ java -cp ".:lib/*" code.Main
 
 ## Auteur
 
-Ahmadou B. Morba — Mastère Cybersécurité, ULHN  
+Ahmadou B. Morba — Licence informatique, ULHN  
