@@ -11,16 +11,16 @@ Il simule un réseau de machines et de commutateurs, calcule les plus courts che
 - Établissement de circuits virtuels entre deux machines avec ports d'entrée/sortie
 
 ## Structure
-src/
-└── code/
-    ├── Main.java                  # Point d'entrée, menu interactif
-    ├── Graph.java                 # Modèle du graphe (nœuds + arêtes)
-    ├── Noeud.java                 # Représente un nœud (machine ou switch)
-    ├── Edge.java                  # Représente une liaison avec coût
-    ├── Dijkstra.java              # Algorithme de Dijkstra
-    ├── RoutingTable.java          # Calcul et affichage des tables de routage
-    ├── VirtualCircuit.java        # Calcul et affichage des circuits virtuels
-    └── GraphStreamVisualizer.java # Visualisation graphique avec GraphStream
+    src/
+    └── code/
+        ├── Main.java                  # Point d'entrée, menu interactif
+        ├── Graph.java                 # Modèle du graphe (nœuds + arêtes)
+        ├── Noeud.java                 # Représente un nœud (machine ou switch)
+        ├── Edge.java                  # Représente une liaison avec coût
+        ├── Dijkstra.java              # Algorithme de Dijkstra
+        ├── RoutingTable.java          # Calcul et affichage des tables de routage
+        ├── VirtualCircuit.java        # Calcul et affichage des circuits virtuels
+        └── GraphStreamVisualizer.java # Visualisation graphique avec GraphStream
 
     ## Prérequis
 
